@@ -28,3 +28,62 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_EvasiveManeuver.cs.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_player.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_player.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Scenes.meta
+Space Shooter/Assets/_Completed-Assets/Scenes/Done_Main.unity
+Space Shooter/Assets/_Completed-Assets/Scenes/Done_Main.unity.meta
+Space Shooter/Assets/_Completed-Assets/Scripts.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_BGScroller.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_BGScroller.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByBoundary.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByBoundary.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByContact.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByContact.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByTime.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_DestroyByTime.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_EvasiveManeuver.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_GameController.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_GameController.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_Mover.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_PlayerController.cs
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Player.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_enemy.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_enemy.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_Mover.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_RandomRotator.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_RandomRotator.cs.meta
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_WeaponController.cs
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_WeaponController.cs.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Enemy Ship.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Player.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_asteroid.prefab
+Space Shooter/Assets/_Complete-Game.unity.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Bolt-Enemy.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Bolt.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Bolt.prefab.meta
+Space Shooter/Assets/_Complete-Game.unity
+Space Shooter/Assets/_Completed-Assets.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Bolt-Enemy.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Enemy Ship.prefab
+Space Shooter/Assets/_Completed-Assets/Scripts/Done_PlayerController.cs.meta
+Space Shooter/Assets/_Completed-Assets/Materials.meta
+Space Shooter/Assets/_Completed-Assets/Materials/done_fx_bolt_cyan_mat.mat
+Space Shooter/Assets/_Completed-Assets/Materials/done_fx_bolt_cyan_mat.mat.meta
+Space Shooter/Assets/_Completed-Assets/Materials/done_fx_bolt_orange_mat.mat
+Space Shooter/Assets/_Completed-Assets/Materials/done_fx_bolt_orange_mat.mat.meta
+Space Shooter/Assets/_Completed-Assets/Materials/done_tile_nebula_green_dff.mat
+Space Shooter/Assets/_Completed-Assets/Materials/done_tile_nebula_green_dff.mat.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 01.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 01.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 02.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 02.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 03.prefab
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_Asteroid 03.prefab.meta
+Space Shooter/Assets/_Completed-Assets/Prefabs/Done_VFX/Done_Explosions/done_explosion_asteroid.prefab.meta
+Space Shooter/Temp/UnityLockfile
+Space Shooter/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
